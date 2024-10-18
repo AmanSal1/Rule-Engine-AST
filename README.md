@@ -57,3 +57,10 @@ Follow these steps to set up the application locally:
 ## Usage
 
 Once both the backend and frontend servers are running, you can access the application in your browser at `http://localhost:5173`.
+
+## Preview
+
+https://github.com/user-attachments/assets/f3d84650-0b7a-4fb6-83f0-fdcd8ad4a7b1
+
+
+
